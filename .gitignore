@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Files over GitHub's 100 MB limit (download/regenerate - see README)
+Dataset/creditcard.csv
+Dataset/transactions_cleaned.csv
+PowerBI/Fraud_Dashboard.pbix
+
+# Python / OS junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+~$*
